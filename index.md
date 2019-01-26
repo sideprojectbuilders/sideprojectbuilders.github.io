@@ -1,3 +1,6 @@
+---
+title: HOME
+---
 # Web Development Study Group for Beginners
 
 ## Details
