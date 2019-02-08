@@ -1,6 +1,9 @@
 ---
+layout: default
 title: HOME
+nav_order: 1
 ---
+
 # Web Development Study Group for Beginners
 
 ## Details

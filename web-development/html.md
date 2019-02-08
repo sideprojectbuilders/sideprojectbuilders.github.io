@@ -1,3 +1,10 @@
+---
+layout: default
+title: HTML Basics
+parent: Web Development
+nav_order: 2
+---
+
 # HTML BASICS
 
 ## What is HTML?
