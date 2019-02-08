@@ -32,13 +32,13 @@ It takes a lot of prior knowledge to do all this ourselves. It is necessary to u
 
 Taking these steps takes a lot of time and effort. So we can do it upside down. The youngest developer on Facebook is explaining it well.
 
-[Facebook's youngest engineer](https://www.youtube.com/watch?v=TUYvX2Kw8Jg)
+[The youngest engineer in Facebook](https://www.youtube.com/watch?v=TUYvX2Kw8Jg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TUYvX2Kw8Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Wordpress is very good starting point. With WordPress, even beginners can easily create Web services.
 If you purchase a theme or download a free theme, you can make a very beautiful homepage without a designer.
 WordPress basically provides blog features. However, you can use various plug-ins to implement unlimited functions.
-You can build an online shopping mall using the woocommece plug-in, or build social media services such as Facebook and Twitter using the buddypress plug-in.
+You can build an online shopping mall using the Woocommerce plug-in, or build social media services such as Facebook and Twitter using the buddypress plug-in.
 As you can see in the video, you can learn the language you need when you need to customize your WordPress website.
 
 #### Starting with wordpress
@@ -46,9 +46,9 @@ As you can see in the video, you can learn the language you need when you need t
 [How To Make a WordPress Website - In 24 Easy Steps](https://www.youtube.com/watch?v=2cbvZf1jIJM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2cbvZf1jIJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the above video, the cost of hosting and purchasing a domain (Step 2) is incurred. Follow the video below to install WordPress on your computer at no cost.
+In the video, the cost of hosting and purchasing a domain (Step 2) is incurred. Follow the video below to install WordPress on your computer at no cost.
 
 [Install WordPress on localhost - xampp Step By Step](https://www.youtube.com/watch?v=Gknrbr2Ju8k)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gknrbr2Ju8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-If you follow the other WordPress tutorial videos recommended by Youtube, you can create a website by yourself. If you can not solve the problem yourself, search on Google, or get help from people in the meatup.
+If you follow the other WordPress tutorial videos recommended by Youtube, you can create a website by yourself. If you can not solve the problem by yourself, search on Google, or get a help from people inside the meetup.
